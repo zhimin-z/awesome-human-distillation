@@ -1,0 +1,45 @@
+name: 提交新 Skill
+description: 推荐一个 Human Distillation Agent Skill 加入列表
+title: "[Skill] "
+labels: ["new-skill"]
+
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: 蒸馏对象类型
+      description: 这个 Skill 蒸馏的是哪类关系中的人？
+      options:
+        - 职场关系（同事、老板、前辈）
+        - 学术关系（师兄、导师、同学）
+        - 亲密关系（前任、恋人、暗恋对象）
+        - 家庭关系（父母、祖父母）
+        - 公众人物（作家、创业者、历史人物）
+        - 其他 / 泛用工具
+    validations:
+      required: true
+
+  - type: input
+    id: name
+    attributes:
+      label: Skill 名称
+      placeholder: 例如：colleague-skill
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: GitHub 链接
+      placeholder: https://github.com/...
+    validations:
+      required: true
+
+  - type: input
+    id: description
+    attributes:
+      label: 一句话描述
+      description: 这个 Skill 蒸馏了什么？它能做什么？
+      placeholder: 例如：通过聊天记录还原前同事的说话风格和思维模式
+    validations:
+      required: true

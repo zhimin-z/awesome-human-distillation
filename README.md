@@ -19,7 +19,7 @@
 
 ## 什么是 Human Distillation？
 
-将一个真实存在过的人——同事、导师、前任、家人——通过对话记录、文字、声音等材料，提炼成一个可调用的 [Claude Code Agent Skill](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial)。
+将一个真实存在过的人——同事、导师、前任、家人——通过对话记录、文字、声音等材料，提炼成一个可调用的 [Claude Code Agent Skill](https://code.claude.com/docs/en/skills)。
 
 ---
 
@@ -107,7 +107,7 @@
 
 1. 参考 [colleague-skill](https://github.com/titanwings/colleague-skill) 的结构
 2. 收集蒸馏材料（聊天记录、文章、录音等）
-3. 写成 Claude Code Agent Skill 格式
+3. 写成 Clll 格式
 4. 发布到 GitHub，提交到本列表
 
 ---

@@ -58,6 +58,7 @@
 | [crush-skill](https://github.com/yyyyyyylll/crush-skill) | [@yyyyyyylll](https://github.com/yyyyyyylll) | 暧昧期消息预测 & 模拟对话，按下发送前先看看 TA 怎么回 | ![Stars](https://img.shields.io/github/stars/yyyyyyylll/crush-skill?style=flat-square) |
 | [first-love-skill](https://github.com/z969081067-commits/first-love-skill) | [@z969081067-commits](https://github.com/z969081067-commits) | 把记忆里的初恋蒸馏成可以对话的 AI Skill，回到那个最耀眼的盛夏 | ![Stars](https://img.shields.io/github/stars/z969081067-commits/first-love-skill?style=flat-square) |
 | [partner-skill](https://github.com/NatalieCao323/partner-skill) | [@NatalieCao323](https://github.com/NatalieCao323) | 蒸馏你的伴侣，基于依恋理论与爱情心理学的关系维护与增进 | ![Stars](https://img.shields.io/github/stars/NatalieCao323/partner-skill?style=flat-square) |
+| [relationship-training-skill](https://github.com/TammyTan516/relationship-training-skill) | [@TammyTan516](https://github.com/TammyTan516) | 在健康的关系中学会正确表达情绪与爱，祝天下有情人终成眷属 | ![Stars](https://img.shields.io/github/stars/TammyTan516/relationship-training-skill?style=flat-square) |
 
 ## 家庭关系 Family
 

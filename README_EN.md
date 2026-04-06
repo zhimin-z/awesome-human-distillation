@@ -18,7 +18,7 @@ Collecting every project that distills real humans into AI Skills.
 
 ## What is Human Distillation?
 
-Take a real person who existed in your life — a colleague, a mentor, an ex, a parent — and distill them into a callable [Claude Code Agent Skill](https://docs.anthropic.com/en/docs/claude-code/skills-tutorial) through chat logs, writing, voice, or any other trace they left behind. 
+Take a real person who existed in your life — a colleague, a mentor, an ex, a parent — and distill them into a callable [Claude Code Agent Skill](https://code.claude.com/docs/en/skills) through chat logs, writing, voice, or any other trace they left behind. 
 ---
 
 ## Contents

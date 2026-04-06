@@ -24,15 +24,23 @@
 
 ## 目录
 
+- [其他 / 泛用工具](#其他--泛用工具-general)
 - [职场关系](#职场关系-workplace)
 - [学术关系](#学术关系-academia)
 - [亲密关系](#亲密关系-intimate)
 - [家庭关系](#家庭关系-family)
 - [公众人物](#公众人物-public-figures)
-- [其他 / 泛用工具](#其他--泛用工具-general)
 - [如何贡献](#如何贡献)
 
 ---
+
+## 其他 / 泛用工具 General
+
+| Skill | 作者 | 描述 | Stars |
+|-------|------|------|-------|
+| [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
+| [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
+| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 
 ## 职场关系 Workplace
 
@@ -80,14 +88,6 @@
 | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻 | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
 | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 想和特朗普来一场真实的对话 | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
 | [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感 | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
-
-## 其他 / 泛用工具 General
-
-| Skill | 作者 | 描述 | Stars |
-|-------|------|------|-------|
-| [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
-| [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
-| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 
 ---
 

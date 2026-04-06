@@ -23,15 +23,23 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 
 ## Contents
 
+- [General / Tools](#general--tools)
 - [Workplace](#workplace)
 - [Academia](#academia)
 - [Intimate](#intimate)
 - [Family](#family)
 - [Public Figures](#public-figures)
-- [General / Tools](#general--tools)
 - [Contributing](#contributing)
 
 ---
+
+## General / Tools
+
+| Skill | Author | Description | Stars |
+|-------|--------|-------------|-------|
+| [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | Anti-distillation: sanitize your forced Skill file — looks complete, core knowledge stays yours | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
+| [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | Distill yourself into a runnable AI Skill — drafts in your voice, works in your style, knows what only you can decide | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
+| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | Distill how anyone thinks — mental models, decision heuristics, expressive DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 
 ## Workplace
 
@@ -79,14 +87,6 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | Give a Bilibili channel URL, auto-distill the creator's digital twin — tone, topics, rhythm, all replicated | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
 | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | Have a real conversation with Donald Trump | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
 | [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | Distill influencer Hu Chenfeng's realist framework — career, education, housing, healthcare, all stripped of illusion | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
-
-## General / Tools
-
-| Skill | Author | Description | Stars |
-|-------|--------|-------------|-------|
-| [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | Anti-distillation: sanitize your forced Skill file — looks complete, core knowledge stays yours | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
-| [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | Distill yourself into a runnable AI Skill — drafts in your voice, works in your style, knows what only you can decide | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
-| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | Distill how anyone thinks — mental models, decision heuristics, expressive DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 
 ---
 

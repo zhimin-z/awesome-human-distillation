@@ -87,6 +87,7 @@
 |-------|------|------|-------|
 | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
+| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 
 ---
 

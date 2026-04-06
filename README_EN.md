@@ -86,6 +86,7 @@ Take a real person who existed in your life — a colleague, a mentor, an ex, a 
 |-------|--------|-------------|-------|
 | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | Anti-distillation: sanitize your forced Skill file — looks complete, core knowledge stays yours | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
 | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | Distill yourself into a runnable AI Skill — drafts in your voice, works in your style, knows what only you can decide | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
+| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | Distill how anyone thinks — mental models, decision heuristics, expressive DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 
 ---
 

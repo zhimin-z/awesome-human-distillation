@@ -20,9 +20,18 @@ body:
       required: true
 
   - type: input
+    id: display_name
+    attributes:
+      label: Skill 展示名字
+      description: 作者给这个 Skill 起的名字，通常在 README 里
+      placeholder: 例如：同事.skill
+    validations:
+      required: true
+
+  - type: input
     id: name
     attributes:
-      label: Skill 名称
+      label: GitHub 仓库名
       placeholder: 例如：colleague-skill
     validations:
       required: true

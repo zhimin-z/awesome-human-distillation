@@ -114,3 +114,7 @@
 ---
 
 *Inspired by the Xiaohongshu cyber-human community.*
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mliu98/awesome-human-distillation&type=Date)](https://star-history.com/#mliu98/awesome-human-distillation&Date)

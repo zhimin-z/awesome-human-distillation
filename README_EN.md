@@ -115,4 +115,4 @@ Found a Human Distillation Skill? [Open an Issue](https://github.com/mliu98/awes
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mliu98/awesome-human-distillation&type=Date)](https://star-history.com/#mliu98/awesome-human-distillation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=mliu98/awesome-human-distillation&type=Date&t=20260407)](https://star-history.com/#mliu98/awesome-human-distillation&Date)

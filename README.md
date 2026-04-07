@@ -41,9 +41,9 @@
 |------|-------|------|------|-------|
 | 女娲.skill | [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏任何人的思维方式——心智模型、决策启发式、表达 DNA | ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square) |
 | 反蒸馏 Skill | [anti-distill](https://github.com/leilei926524-tech/anti-distill) | [@leilei926524-tech](https://github.com/leilei926524-tech) | 反蒸馏：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己 | ![Stars](https://img.shields.io/github/stars/leilei926524-tech/anti-distill?style=flat-square) |
-| 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 | 永生.skill | [immortal-skill](https://github.com/agenmod/immortal-skill) | [@agenmod](https://github.com/agenmod) | 与其等着被别人蒸，不如先蒸自己——全网首个开源数字永生框架，支持蒸馏任何人，12+ 平台，四维蒸馏 + 防蒸馏 + 蒸馏协议 | ![Stars](https://img.shields.io/github/stars/agenmod/immortal-skill?style=flat-square) |
 | 数字人生.skills | [digital-life](https://github.com/wildbyteai/digital-life) | [@wildbyteai](https://github.com/wildbyteai) | 用你的数字痕迹照见真实的自己——5 个考古工具（前世、社死考古、AI替身、遗产清算、墓志铭），先证据后追问，不说鸡汤 | ![Stars](https://img.shields.io/github/stars/wildbyteai/digital-life?style=flat-square) |
+| 自己.skill | [self-skill](https://github.com/moyitech/self-skill) | [@moyitech](https://github.com/moyitech) | 把自己蒸馏成一个能替你工作、替你起草回复、保留你边界感的 AI Skill | ![Stars](https://img.shields.io/github/stars/moyitech/self-skill?style=flat-square) |
 | 数字分身.skill | [digital-twin-skill](https://github.com/FredHJC/digital-twin-skill) | [@FredHJC](https://github.com/FredHJC) | 用你自己的数据创建高保真 AI 数字分身，支持多角色场景（同事、伴侣、家人），数据驱动人格提取，内置隐私脱敏 | ![Stars](https://img.shields.io/github/stars/FredHJC/digital-twin-skill?style=flat-square) |
 
 ## 职场关系 Workplace
@@ -79,9 +79,9 @@
 
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
-| MamaSkill | [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | [@jiangziyan-693](https://github.com/jiangziyan-693) | 珍藏回忆、重构挚爱本真的数字圣所 | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
 | 父母.skill | [parents-skills](https://github.com/xiaoheizi8/parents-skills) | [@xiaoheizi8](https://github.com/xiaoheizi8) | 提供父母的聊天记录与记忆，生成真正像他们的 AI Skill——用他们的口头禅说话，用他们的方式关心你 | ![Stars](https://img.shields.io/github/stars/xiaoheizi8/parents-skills?style=flat-square) |
 | 重逢.skill | [reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) | [@yangdongchen66-boop](https://github.com/yangdongchen66-boop) | 死亡不是终点，遗忘才是——蒸馏逝去的亲人，构建具备情感还原度的数字陪伴，纯本地运行，内置心理护栏 | ![Stars](https://img.shields.io/github/stars/yangdongchen66-boop/reunion-skill?style=flat-square) |
+| MamaSkill | [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) | [@jiangziyan-693](https://github.com/jiangziyan-693) | 珍藏回忆、重构挚爱本真的数字圣所 | ![Stars](https://img.shields.io/github/stars/jiangziyan-693/MamaSkill?style=flat-square) |
 
 ## 公众人物 Public Figures
 
@@ -90,9 +90,9 @@
 | 求是Skill | [qiushi-skill](https://github.com/HughYau/qiushi-skill) | [@HughYau](https://github.com/HughYau) | 从教员思想中提炼一条总原则和九大方法论工具，系统性武装 AI 的大脑 | ![Stars](https://img.shields.io/github/stars/HughYau/qiushi-skill?style=flat-square) |
 | 峰哥亡命天涯.skill | [fengge-wangmingtianya-perspective](https://github.com/rottenpen/fengge-wangmingtianya-perspective) | [@rottenpen](https://github.com/rottenpen) | 蒸馏主播峰哥亡命天涯的表达风格：先下结论、现实主义去魅、黑色幽默 | ![Stars](https://img.shields.io/github/stars/rottenpen/fengge-wangmingtianya-perspective?style=flat-square) |
 | 户晨风.skill | [hu-chen-feng-skill](https://github.com/123pyLeo/hu-chen-feng-skill) | [@123pyLeo](https://github.com/123pyLeo) | 蒸馏网红户晨风的现实主义判断框架：还原他看待职业、教育、买房、医疗等问题的质感 | ![Stars](https://img.shields.io/github/stars/123pyLeo/hu-chen-feng-skill?style=flat-square) |
-| 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
 | 毛选.skill | [maoxuan-skill](https://github.com/leezythu/maoxuan-skill) | [@leezythu](https://github.com/leezythu) | 用毛泽东的思维框架分析问题、制定策略、看透本质——7个心智模型，不是复读语录 | ![Stars](https://img.shields.io/github/stars/leezythu/maoxuan-skill?style=flat-square) |
 | Trump.skill | [Trump-skill](https://github.com/wwwttlll/Trump-skill) | [@wwwttlll](https://github.com/wwwttlll) | 想和特朗普来一场真实的对话 | ![Stars](https://img.shields.io/github/stars/wwwttlll/Trump-skill?style=flat-square) |
+| 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
 | 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 | ![Stars](https://img.shields.io/github/stars/yanghaoraneve/star-skill?style=flat-square) |
 | UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻 | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
 

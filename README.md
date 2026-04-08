@@ -1,5 +1,5 @@
 # Awesome Human Distillation 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-32-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Skills](https://img.shields.io/badge/skills-33-brightgreen?style=flat-square)](#) [![GitHub stars](https://img.shields.io/github/stars/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/stargazers) [![GitHub last commit](https://img.shields.io/github/last-commit/mliu98/awesome-human-distillation?style=flat-square)](https://github.com/mliu98/awesome-human-distillation/commits/main) [![GitHub issues](https://img.shields.io/github/issues/mliu98/awesome-human-distillation?style=flat-square&label=submissions)](https://github.com/mliu98/awesome-human-distillation/issues)
 
 [English](README_EN.md)
 
@@ -96,6 +96,7 @@
 | 马克思.skill | [karlmarx-skill](https://github.com/baojiachen0214/karlmarx-skill) | [@baojiachen0214](https://github.com/baojiachen0214) | 用马克思主义方法论武装 AI，进行深层结构分析 | ![Stars](https://img.shields.io/github/stars/baojiachen0214/karlmarx-skill?style=flat-square) |
 | 内娱.skill | [star-skill](https://github.com/yanghaoraneve/star-skill) | [@yanghaoraneve](https://github.com/yanghaoraneve) | 将歌手/偶像转化为可对话的 AI 数字人格 | ![Stars](https://img.shields.io/github/stars/yanghaoraneve/star-skill?style=flat-square) |
 | UP主.skill | [up-skill](https://github.com/jiemojiemo/up-skill) | [@jiemojiemo](https://github.com/jiemojiemo) | 给一个 B 站主页链接，自动蒸馏出 UP 主的数字分身：语气、选题、节奏全复刻 | ![Stars](https://img.shields.io/github/stars/jiemojiemo/up-skill?style=flat-square) |
+| 童锦程.skill | [tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) | [@hotcoffeeshake](https://github.com/hotcoffeeshake) | 蒸馏情感博主童锦程的思维框架：吸引力法则、人性不可测试……用他的视角分析你的人际关系难题 | ![Stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=flat-square) |
 
 ---
 

@@ -93,6 +93,9 @@
 
 | 名字 | Skill | 作者 | 描述 | Stars |
 |------|-------|------|------|-------|
+| 乔布斯.skill | [steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) | [@alchaincyf](https://github.com/alchaincyf) | 提炼 Steve Jobs 的产品判断、叙事风格与决策启发式，形成可复用的方法论框架。 | ![Stars](https://img.shields.io/github/stars/alchaincyf/steve-jobs-skill?style=flat-square) |
+| 安德烈·卡帕西.skill | [karpathy-skill](https://github.com/alchaincyf/karpathy-skill) | [@alchaincyf](https://github.com/alchaincyf) | 提炼 Andrej Karpathy 对 AI 工程、教育与研究的思考框架，形成可复用的方法论视角。 | ![Stars](https://img.shields.io/github/stars/alchaincyf/karpathy-skill?style=flat-square) |
+| 伊利亚·苏茨克维.skill | [ilya-sutskever-skill](https://github.com/alchaincyf/ilya-sutskever-skill) | [@alchaincyf](https://github.com/alchaincyf) | 提炼 Ilya Sutskever 对规模化、研究突破与超级智能的判断框架，形成可复用的方法论视角。 | ![Stars](https://img.shields.io/github/stars/alchaincyf/ilya-sutskever-skill?style=flat-square) |
 | 张雪峰.skill | [zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) | [@alchaincyf](https://github.com/alchaincyf) | 蒸馏升学顾问张雪峰的认知框架：社会筛子理论、选择大于努力、中位数原则……用他的决策模型分析你的教育与职业问题 | ![Stars](https://img.shields.io/github/stars/alchaincyf/zhangxuefeng-skill?style=flat-square) |
 | 求是Skill | [qiushi-skill](https://github.com/HughYau/qiushi-skill) | [@HughYau](https://github.com/HughYau) | 从教员思想中提炼一条总原则和九大方法论工具，系统性武装 AI 的大脑 | ![Stars](https://img.shields.io/github/stars/HughYau/qiushi-skill?style=flat-square) |
 | 童锦程.skill | [tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) | [@hotcoffeeshake](https://github.com/hotcoffeeshake) | 蒸馏情感博主童锦程的思维框架：吸引力法则、人性不可测试……用他的视角分析你的人际关系难题 | ![Stars](https://img.shields.io/github/stars/hotcoffeeshake/tong-jincheng-skill?style=flat-square) |
